@@ -1,0 +1,276 @@
+[28-Apr-2018 09:43:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/onaylanan.php on line 24
+[28-Apr-2018 09:43:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 25
+[28-Apr-2018 09:43:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/onaylanmayan.php on line 24
+[28-Apr-2018 09:43:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/onaylanan.php on line 24
+[28-Apr-2018 09:45:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 25
+[28-Apr-2018 13:46:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[29-Apr-2018 18:55:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 66
+[30-Apr-2018 13:21:12 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[30-Apr-2018 21:49:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 10:15:12 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 10:20:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 10:21:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 10:23:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 66
+[02-May-2018 10:31:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 66
+[02-May-2018 11:32:21 UTC] PHP Warning:  include_once(./izin_yonergesi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/content.php on line 86
+[02-May-2018 11:32:21 UTC] PHP Warning:  include_once(): Failed opening './izin_yonergesi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/content.php on line 86
+[02-May-2018 11:32:23 UTC] PHP Warning:  include_once(./izin_yonergesi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/content.php on line 86
+[02-May-2018 11:32:23 UTC] PHP Warning:  include_once(): Failed opening './izin_yonergesi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/content.php on line 86
+[02-May-2018 11:32:41 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:32:41 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:33:18 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:33:18 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:35:23 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:35:23 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:35:38 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:35:38 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:35:40 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:35:40 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:35:43 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:35:43 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:35:45 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:35:45 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:35:46 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:35:46 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:36:02 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:36:02 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:36:02 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:36:02 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:36:05 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:36:05 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:36:11 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:36:11 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:37:45 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:37:45 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:40:35 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:40:35 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:40:47 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:40:47 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:40:56 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:40:56 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:41:07 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:41:07 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:41:35 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:41:35 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:41:52 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:41:52 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:42:37 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:42:37 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:43:01 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:43:01 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:43:24 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:43:24 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:43:33 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:43:33 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:44:02 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:44:02 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:44:54 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:44:54 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:45:01 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:45:01 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:45:10 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:45:10 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:45:17 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:45:17 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:49:26 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 11:49:38 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 11:50:09 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 11:50:09 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 12:19:01 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 12:29:25 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 12:29:25 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 12:35:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/user.php on line 61
+[02-May-2018 12:36:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/user.php on line 61
+[02-May-2018 12:50:30 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 12:51:11 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 12:51:18 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:05:14 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:06:02 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:08:21 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:09:22 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:10:31 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:12:46 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:14:04 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:14:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function errorInfo() on boolean in /home/hasan4k/public_html/izintakip/admin/save.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/hasan4k/public_html/izintakip/admin/save.php on line 21
+[02-May-2018 13:14:11 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:21:43 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:21:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function errorInfo() on boolean in /home/hasan4k/public_html/izintakip/admin/save.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/hasan4k/public_html/izintakip/admin/save.php on line 21
+[02-May-2018 13:21:48 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:22:12 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:22:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function errorInfo() on boolean in /home/hasan4k/public_html/izintakip/admin/save.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/hasan4k/public_html/izintakip/admin/save.php on line 21
+[02-May-2018 13:22:35 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:22:36 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:22:42 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:22:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function errorInfo() on boolean in /home/hasan4k/public_html/izintakip/admin/save.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/hasan4k/public_html/izintakip/admin/save.php on line 21
+[02-May-2018 13:22:48 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:22:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function errorInfo() on boolean in /home/hasan4k/public_html/izintakip/admin/save.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/hasan4k/public_html/izintakip/admin/save.php on line 21
+[02-May-2018 13:23:25 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:23:26 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:24:57 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 13:33:47 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 17:14:17 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 17:17:38 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 17:17:38 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 17:21:39 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 17:21:39 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 17:29:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 66
+[02-May-2018 17:36:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hasan4k/public_html/izintakip/admin/mail_permit_action.php:1) in /home/hasan4k/public_html/izintakip/admin/mail_permit_action.php on line 26
+[02-May-2018 17:36:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hasan4k/public_html/izintakip/admin/mail_permit_action.php:1) in /home/hasan4k/public_html/izintakip/admin/mail_permit_action.php on line 26
+[02-May-2018 17:40:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hasan4k/public_html/izintakip/admin/mail_permit_action.php:1) in /home/hasan4k/public_html/izintakip/admin/mail_permit_action.php on line 41
+[02-May-2018 17:40:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 66
+[02-May-2018 17:41:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 66
+[02-May-2018 17:42:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 66
+[02-May-2018 17:42:24 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 17:42:24 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 17:46:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 66
+[02-May-2018 17:47:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 66
+[02-May-2018 18:03:37 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 19:07:17 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[02-May-2018 20:07:07 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 20:07:07 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 20:39:47 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 20:39:47 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 20:43:55 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 20:43:55 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 20:43:59 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[02-May-2018 20:43:59 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[03-May-2018 11:49:08 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[03-May-2018 11:49:08 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[03-May-2018 11:49:48 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[03-May-2018 11:57:38 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hasan4k/public_html/izintakip/admin/mail.php on line 22
+[03-May-2018 11:57:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 22
+[03-May-2018 12:03:41 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hasan4k/public_html/izintakip/admin/mail.php on line 22
+[03-May-2018 12:03:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 22
+[03-May-2018 12:42:58 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hasan4k/public_html/izintakip/admin/mail.php on line 22
+[03-May-2018 12:42:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 22
+[03-May-2018 12:46:00 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hasan4k/public_html/izintakip/admin/mail.php on line 22
+[03-May-2018 12:46:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 22
+[03-May-2018 13:09:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 25
+[03-May-2018 13:11:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 25
+[03-May-2018 13:11:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 25
+[03-May-2018 13:12:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 26
+[03-May-2018 13:13:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 25
+[03-May-2018 17:55:20 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[03-May-2018 17:55:20 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[03-May-2018 21:37:52 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[03-May-2018 21:37:52 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[04-May-2018 07:08:49 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[04-May-2018 07:08:49 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[05-May-2018 10:59:55 UTC] PHP Warning:  mysqli::query(): Empty query in /home/hasan4k/public_html/izintakip/admin/mail.php on line 22
+[05-May-2018 10:59:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hasan4k/public_html/izintakip/admin/mail.php on line 22
+[05-May-2018 19:07:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 54
+[05-May-2018 19:07:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 54
+[05-May-2018 19:11:33 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 41
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:12:36 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 19:40:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/hasan4k/public_html/izintakip/admin/izintalep.php on line 14
+[05-May-2018 19:51:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hasan4k/public_html/izintakip/admin/izintalep.php on line 171
+[05-May-2018 19:52:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hasan4k/public_html/izintakip/admin/izintalep.php on line 172
+[05-May-2018 19:52:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hasan4k/public_html/izintakip/admin/izintalep.php on line 172
+[05-May-2018 19:52:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hasan4k/public_html/izintakip/admin/izintalep.php on line 172
+[05-May-2018 19:52:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hasan4k/public_html/izintakip/admin/izintalep.php on line 170
+[05-May-2018 19:52:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hasan4k/public_html/izintakip/admin/izintalep.php on line 170
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 20:43:03 UTC] PHP Warning:  Use of undefined constant s - assumed 's' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 40
+[05-May-2018 21:00:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/hasan4k/public_html/izintakip/admin/izintalep.php on line 38
+[06-May-2018 00:37:59 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hasan4k/public_html/izintakip/admin/izintalepform.php:16) in /home/hasan4k/public_html/izintakip/admin/izintalepform.php on line 17
+[06-May-2018 00:38:53 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hasan4k/public_html/izintakip/admin/izintalepform.php:16) in /home/hasan4k/public_html/izintakip/admin/izintalepform.php on line 17
+[05-May-2018 22:02:52 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php:100
+Stack trace:
+#0 /home/hasan4k/public_html/izintakip/admin/content.php(83): include_once()
+#1 /home/hasan4k/public_html/izintakip/admin/index.php(11): include_once('/home/hasan4k/p...')
+#2 {main}
+  thrown in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 100
+[05-May-2018 22:03:25 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php:100
+Stack trace:
+#0 /home/hasan4k/public_html/izintakip/admin/content.php(83): include_once()
+#1 /home/hasan4k/public_html/izintakip/admin/index.php(11): include_once('/home/hasan4k/p...')
+#2 {main}
+  thrown in /home/hasan4k/public_html/izintakip/admin/onaybekleyen.php on line 100
+[06-May-2018 20:13:07 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[06-May-2018 20:13:07 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[06-May-2018 20:14:09 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[06-May-2018 20:14:09 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[06-May-2018 21:31:47 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[06-May-2018 21:31:47 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[07-May-2018 09:19:08 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[07-May-2018 09:19:08 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[07-May-2018 09:21:38 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[07-May-2018 09:22:18 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[07-May-2018 09:22:30 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[07-May-2018 09:29:34 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[07-May-2018 09:29:34 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[07-May-2018 09:44:00 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[07-May-2018 09:44:00 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[07-May-2018 13:23:02 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/hasan4k/public_html/izintakip/admin/mobile.php on line 41
+[07-May-2018 13:23:14 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/hasan4k/public_html/izintakip/admin/mobile.php on line 41
+[07-May-2018 13:33:43 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[07-May-2018 13:33:43 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[07-May-2018 14:56:03 UTC] PHP Warning:  mysqli::__construct(): MySQL server has gone away in /home/hasan4k/public_html/izintakip/admin/mobile.php on line 15
+[07-May-2018 14:56:03 UTC] PHP Warning:  mysqli::__construct(): MySQL server has gone away in /home/hasan4k/public_html/izintakip/admin/mobile.php on line 15
+[07-May-2018 14:56:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /home/hasan4k/public_html/izintakip/admin/mobile.php on line 15
+[07-May-2018 14:56:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /home/hasan4k/public_html/izintakip/admin/mobile.php on line 15
+[05-Sep-2018 23:53:37 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[05-Sep-2018 23:53:37 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[01-Oct-2018 13:40:53 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[01-Oct-2018 13:40:53 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[08-Oct-2018 19:42:21 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[08-Oct-2018 19:49:33 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 23
+[19-Nov-2018 16:29:18 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[19-Nov-2018 16:29:18 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[19-Nov-2018 16:29:51 UTC] PHP Warning:  Unterminated comment starting line 6 in /home/hasan4k/public_html/izintakip/admin/user_update.php on line 6
+[19-Nov-2018 16:34:36 UTC] PHP Warning:  include_once(session_Bilgi): failed to open stream: No such file or directory in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
+[19-Nov-2018 16:34:36 UTC] PHP Warning:  include_once(): Failed opening 'session_Bilgi' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hasan4k/public_html/izintakip/admin/izin_yonergesi.php on line 2
