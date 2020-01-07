@@ -1,2 +1,2 @@
 # permission-management-system
-Developed with PHP & MySQL
+Developed for İstnabul Kültür University TBMYO with PHP & MySQL
