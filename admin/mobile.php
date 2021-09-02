@@ -3,10 +3,10 @@
 header("Access-Control-Allow-Origin: *");
 class API{
         private $conn=NULL;
-    	const hostname="94.73.172.6";
-	const username="hasan4k_izintakp";//local kullanıcı adım
-	const pass="Hasanklc56.";//local şifrem.
-	const db="hasan4k_izintakip";//veritabanı adım
+    	const hostname="localhost";
+	const username="username";//local username
+	const pass="pass";//local pass.
+	const db="db";//db name
 	public $data;
         public function __construct(){//nesne oluştuğu anda ilk çalışan metod
 		$this->dbconnect();//database bağlantısını program ilk çalıştırıldığında yapmasını istedik.
